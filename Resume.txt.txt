@@ -1,0 +1,73 @@
+Abdullah Mustafa
+Software Engineer
+Self-motivated computer science engineer with a keen interest in coding. Complete knowledge of
+programming languages like python and c++ with a strong foundation in math, logic, and problem- solving.
+
+abdullahmustafa040@gmail.com 03060678635 Lahore, Pakistan linkedin.com/in/abdullah-mustafa-
+EDUCATION
+
+Bachelors in Computer Science
+Government College Lahore
+08/2018 - Present, 3.38
+ICS (computer science)
+Govt. Islamia College Civil Lines
+06/2016 - 04/2018, 75%
+
+ACADEMIC PROJECTS
+Machine Learning Project (08/2020 - Present)
+Iris Flowers Classification
+Loan Prediction Housing Prices Prediction
+Titanic Survival Project
+Customer Segmentation (09/2020)
+The software will lift the segmentation by analyzing customer data
+to create more targeted segments. Finds hidden patterns in data
+that a human marketer may be unable to spot
+School Management System: (03/2019)
+Implement the window form application. The language is c#. All necessary functionality is implemented. Movie Ticket Software (03/2019)
+Software used by the person at the theatre. he uses to assign the
+ticket. language is c#. and code on windows form application.
+Soccer Database (04/2020)
+Soccer Database Project Our project aims to create a database that can keep entertaining stories reporting statistics that enhance the
+viewers' experience of soccer matches, and gather valuable insights
+to make relevant comparisons by considering player data, match
+data, and corresponding data from soccer leagues.
+Text Clustering (01/2021)
+It is the process of classifying documents into predefined
+categories based on their content. It is the automated assignment of natural language texts to predefined categories.
+Image Classification (01/2021)
+It is a technique that allows machines to classify and categorize what they “see” in images. Often referred to as “image
+classification”. This core task is a foundational component in solving many computer vision-based machine learning problems.
+Facial Recognition System: (08/2020)
+It applies modern AI techniques to recognize faces. The Face
+recognition System scans through the existing database of faces in
+real-time and compares them with the face being detected by the
+camera to find a match. Mark the presence. C# Games (01/2020 - 03/2020)
+Snake Tic Tac Toe
+SKILLS:
+python c++ Machine learning Ai Assembly
+PHP HTML CSS Programming languages
+Linear algebra java SQL mysql
+Mathematics Statistics Calculus
+Discrete mathematics Communication Creativity
+
+CERTIFICATES
+DigiSkills Freelancing (08/2019 - 10/2019)
+Completed the training in FREELANCING course under DigiSkills Training
+Program Batch-04 Aug 2019-Oct 2019
+DigiSkills Wordpress (08/2019 - 10/2019)
+Completed the training in WORDPRESS course under DigiSkills Training
+Program Batch-04 Aug 2019-Oct 2019
+Machine Learning Workshops (06/2020 - 08/2020)
+Completed the training in Machine Learning course under Google Developer Student Clubs.
+LANGUAGES
+English
+Full Professional Proficiency
+
+Urdu
+Native or Bilingual Proficiency
+
+Chinese
+Professional Working Proficiency
+INTERESTS
+Artificial Intelligence Chess Tech-news
+Jogging Cricket
